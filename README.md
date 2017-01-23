@@ -1,0 +1,2 @@
+# ambistrap
+Ambilinc Bootstrap repository
